@@ -1,2 +1,2 @@
-# elite-mod-2.10
-Elite Mod 2.10
+# elite-mod-3.0
+Elite Mod 3.0
