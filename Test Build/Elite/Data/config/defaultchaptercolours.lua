@@ -2342,7 +2342,7 @@ ChapterColours =
             chapterNameID = 10000192, -- LOCDB [10000192] 'Ordo Malleus'
 
             
-            primaryColourName = "Mithril Silver",
+            primaryColourName = "Chainmail",
             secondaryColourName = "Khorne Red",
             tintColourName = "Light Grey",
             extraColourName = "Metallic Gold",
@@ -2350,17 +2350,17 @@ ChapterColours =
             teamTex = "1",
             badge1Tex = "GK_Inquisition",
 
-            usableRaces = { "race_ordomalleus", "race_tau" },
+            usableRaces = { "race_ordomalleus"},
             armyPainterVisibility = true,
 	},
 
 	{
-            chapterKeyName = "SM_GreyKnights",
+            chapterKeyName = "SM_Ordo_Malleus_Elite",
 
             chapterNameID = 10001414, -- LOCDB [10000192] 'Ordo Malleus (Elite)'
 
             
-            primaryColourName = "Mithril Silver",
+            primaryColourName = "Chainmail",
             secondaryColourName = "Khorne Red",
             tintColourName = "Light Grey",
             extraColourName = "Metallic Gold",
@@ -2368,7 +2368,7 @@ ChapterColours =
             teamTex = "1",
             badge1Tex = "GK_Inquisition",
 
-            usableRaces = { "race_ordomalleus", "race_marine2" },
+            usableRaces = { "race_ordomalleus" },
             armyPainterVisibility = false,
 	},
 
